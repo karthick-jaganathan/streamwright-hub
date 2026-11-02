@@ -1,0 +1,9 @@
+key: sqs
+title: Amazon SQS
+family: readers
+summary: "Amazon SQS queue connector for event consumption and publishing"
+trust: official
+homepage: https://github.com/karthick-jaganathan/streamwright
+maintainer: karthick-jaganathan
+install:
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.9#subdirectory=connectors/readers/sqs"
