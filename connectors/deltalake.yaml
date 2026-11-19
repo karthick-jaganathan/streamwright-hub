@@ -1,9 +1,9 @@
 key: deltalake
 title: Delta Lake
 family: readers
-summary: Delta Lake tables, read-only [DuckDB delta]
+summary: Delta Lake table reads, appends, overwrites and merges [DuckDB delta]
 trust: official
 homepage: https://github.com/karthick-jaganathan/streamwright
 maintainer: karthick-jaganathan
 install:
-  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.15#subdirectory=connectors/readers/deltalake"
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.16#subdirectory=connectors/readers/deltalake"

@@ -1,9 +1,9 @@
 key: linkedin_ads
 title: LinkedIn Ads
 family: ads
-summary: "LinkedIn Ads marketing and analytics [declarative HTTP]"
+summary: LinkedIn Ads reads, analytics and writes [declarative HTTP]
 trust: official
 homepage: https://github.com/karthick-jaganathan/streamwright
 maintainer: karthick-jaganathan
 install:
-  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.15#subdirectory=connectors/ads/linkedin_ads"
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.16#subdirectory=connectors/ads/linkedin_ads"

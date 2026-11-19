@@ -1,9 +1,9 @@
 key: meta_ads
 title: Meta Ads
 family: ads
-summary: Meta Ads marketing and insights [facebook-business SDK]
+summary: Meta Ads reads and insights; campaign writes and custom conversions [facebook-business SDK]
 trust: official
 homepage: https://github.com/karthick-jaganathan/streamwright
 maintainer: karthick-jaganathan
 install:
-  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.15#subdirectory=connectors/ads/meta_ads"
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.16#subdirectory=connectors/ads/meta_ads"

@@ -1,9 +1,9 @@
 key: google_ads
 title: Google Ads
 family: ads
-summary: "Google Ads campaigns and reporting [google-ads SDK]"
+summary: Google Ads reads and reporting; campaign writes and conversion uploads [google-ads SDK]
 trust: official
 homepage: https://github.com/karthick-jaganathan/streamwright
 maintainer: karthick-jaganathan
 install:
-  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.15#subdirectory=connectors/ads/google_ads"
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.16#subdirectory=connectors/ads/google_ads"

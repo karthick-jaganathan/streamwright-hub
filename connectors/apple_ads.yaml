@@ -1,9 +1,9 @@
 key: apple_ads
 title: Apple Ads
 family: ads
-summary: Apple Ads campaigns and reporting [declarative HTTP]
+summary: Apple Ads campaigns, reporting and writes [declarative HTTP]
 trust: official
 homepage: https://github.com/karthick-jaganathan/streamwright
 maintainer: karthick-jaganathan
 install:
-  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.15#subdirectory=connectors/ads/apple_ads"
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.1.16#subdirectory=connectors/ads/apple_ads"
