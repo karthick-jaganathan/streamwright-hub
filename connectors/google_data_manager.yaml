@@ -1,0 +1,9 @@
+key: google_data_manager
+title: Google Data Manager
+family: ads
+summary: Conversions and audience members sent to Google Ads, GA4 and DV360 [google-ads-datamanager SDK]
+trust: official
+homepage: https://github.com/karthick-jaganathan/streamwright
+maintainer: karthick-jaganathan
+install:
+  git: "git+https://github.com/karthick-jaganathan/streamwright.git@v0.2.0#subdirectory=connectors/ads/google_data_manager"
